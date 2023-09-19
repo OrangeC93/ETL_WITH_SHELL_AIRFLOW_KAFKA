@@ -58,6 +58,7 @@ Lambda architecture
 - used when data window is needed but speed is critical
 - drawback is logical complexity
 - lambda architecture = accuracy and speed
+
 ![image](pics/lambda_architecture.png)
 
 
