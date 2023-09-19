@@ -30,7 +30,7 @@ ELT is emerging
 - ELT separates the data pipeline from the processing
 
 # Data Exaction Techs
-Web scraping, APIs, querying, Edge computing, Biomedical devices
+Web scraping, APIs, querying, Edge computing(extracting features of interest from the raw data), Biomedical devices
 
 # Data Transform Techs
 Data typing, Data structing, Anonymizing, Encrypting
