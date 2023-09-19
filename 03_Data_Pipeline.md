@@ -75,3 +75,10 @@ Stream use cases
 - user behavior, advertising
 - stock market trading
 - read time product pricing
+
+Stream-processing technologies include Apache Kafka, IBM Streams, and SQLStream 
+
+
+# Modern data pipeline technologies 
+Include schema and transformation support, drag-and-drop GUIs, and security features 
+
