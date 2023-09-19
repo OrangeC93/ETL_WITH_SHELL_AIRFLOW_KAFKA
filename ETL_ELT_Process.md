@@ -31,12 +31,19 @@ ELT is emerging
 
 # Data Exaction Techs
 Web scraping, APIs, querying, Edge computing, Biomedical devices
+
 # Data Transform Techs
 Data typing, Data structing, Anonymizing, Encrypting
 
 - Cleaning: duplicate records, missing values
 - Normalizing: converting data to common units
-- Filtering, sorting, aggregating, binnign
+- Filtering, sorting, aggregating, bining
+
+Examples of ways information can be lost in transformation proceses include:
+- Lossy data comppression: For example, converting floating point values to integers, reducing bitrates on audio or video.
+- Filtering: For example, filtering is usually a temporary selection of a subset of data, but when it is permanent, information can easily be discarded
+- Aggregation: For example, average yearly sales vs. daily or monthly average sales
+- Edge computing devices: For example, false negatives in surveillance devices designed to only stream alarm signals, not the raw data
 
 # Data Loading Techs
 - Full
