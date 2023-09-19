@@ -68,6 +68,7 @@ Examples of ways information can be lost in transformation proceses include:
   - Pull: requests for data originate from the clident, RSS feeds, email
   - Push: server pushes data to clients, notifications, instant messaging
 - Parallel and serial
+  - Multiple data streams 
 
   
 
