@@ -8,3 +8,6 @@ A shell is a powerful user interface for Unix-like operating systems. It can int
 - Alteryx
 - airflow
 - pandas python
+
+# ETL using Shell Scripting
+![image](pics/temprature_reporting_workflow.png)
