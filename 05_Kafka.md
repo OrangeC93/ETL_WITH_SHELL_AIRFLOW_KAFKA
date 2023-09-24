@@ -12,9 +12,11 @@ Common format
 One source to one destination: Event streaming from one event source(sensors, devices, ...) to one destination (event destination)
 
 Event streaming platform (ESP)
+
 ![image](/pics/esp.png)
 
 ESP conponent
+
 ![image](/pics/esp_component.png)
 - Event broker: contains ingester, processor, consumption
 
