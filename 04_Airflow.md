@@ -1,6 +1,7 @@
 # Airflow Overview
 
 Life cycle
+
 ![image](pics/life_cycle_airflow.png)
 
 Features
@@ -74,9 +75,11 @@ Define as Code
 ![image](pics/airflow_logs.png)
 
 Airflow log files
+
 ![image](pics/airflow_log_files.png)
 
 Reviewing task events via UI
+
 ![image](pics/review_task_events_via_UI.png)
 
 Monitoring metrics
@@ -91,4 +94,5 @@ Monitoring metrics
   - Milliseconds to reach a success or failed state 
 
 Storing and analyzing metrics
+
 ![image](pics/store_analyze_metrics.png)
