@@ -69,4 +69,26 @@ Define as Code
 - Maintainable
 - Versionable
 - Collaborative
-  
+
+# Airflow Logs
+![image](pics/airflow_logs.png)
+
+Airflow log files
+![image](pics/airflow_log_files.png)
+
+Reviewing task events via UI
+![image](pics/review_task_events_via_UI.png)
+
+Monitoring metrics
+- Counters: metrics that always increase
+  - Total count of task instances failures
+  - Total count of task instance successes
+- Gauges: metrics that may fluctuate
+  - Number of running tasks
+  - DAG bag size, or number of DAGs in production
+- Timers: metrics related to time duration
+  - Milliseconds to finish a task
+  - Milliseconds to reach a success or failed state 
+
+Storing and analyzing metrics
+![image](pics/store_analyze_metrics.png)
