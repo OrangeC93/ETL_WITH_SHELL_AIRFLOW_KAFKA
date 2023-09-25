@@ -79,4 +79,11 @@ Kafka consumer CLI
 
 ![image](/pics/kafka_consumer_cli.png)
 
+Example
 
+![image](/pics/kafka_example.png)
+
+
+Summary
+
+![image](/pics/kafka_core_summary.png)
