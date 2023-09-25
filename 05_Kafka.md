@@ -87,3 +87,20 @@ Example
 Summary
 
 ![image](/pics/kafka_core_summary.png)
+
+# Kafka Streaming
+Kafka Streams API
+- Simple client library to facilitate data processing in event streaming pipelines
+- Processes and analyzes data stored in kafaka topic
+- Record only processed once
+- Processing one record at a time
+
+Stream processing topology:
+- There are two special types of processors: On the left, you can see the source processor which has no upstream processors. A source processor acts like a consumer which consumes streams from Kafka topics and forwards the processed streams to its downstream processors. On the right, you can see the sink processor, which has no downstream processors. A sink processor acts like a producer which publishes the received stream to a Kafka topic
+
+![image](/pics/stream_process_topology.png)
+
+Example
+
+![image](/pics/weather_stream_example.png)
+
